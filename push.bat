@@ -2,7 +2,7 @@
 cd /d "C:\Users\岳雅鹏\.claude\projects\fitness-app\fitness-app\dist"
 
 :: 在这里粘贴你的 GitHub Token（替换下面这行）
-set GH_TOKEN=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YOUR_TOKEN_HERE
+set GH_TOKEN=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
 
 echo Pushing...
 git init 2>nul
